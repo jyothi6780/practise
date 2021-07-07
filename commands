@@ -1,0 +1,7 @@
+git clone               -to clone/download the repositary
+git add                 - to add the files into staging area.
+git commit              - to create the commit id.
+git commit -m "message" --->to provide the descriotion to the commit.
+git push                ---->to push the changes to the remote repository.
+git checkout -b         ---->to create new local branch
+git status ---------- to know the status 
